@@ -1,0 +1,15 @@
+C:\Users\mpatr\OneDrive\Desktop\repos\IterationStatementExercise1\IterationStatementsEx1\IterationStatementsEx1\bin\Debug\net6.0\IterationStatementsEx1.exe
+C:\Users\mpatr\OneDrive\Desktop\repos\IterationStatementExercise1\IterationStatementsEx1\IterationStatementsEx1\bin\Debug\net6.0\IterationStatementsEx1.deps.json
+C:\Users\mpatr\OneDrive\Desktop\repos\IterationStatementExercise1\IterationStatementsEx1\IterationStatementsEx1\bin\Debug\net6.0\IterationStatementsEx1.runtimeconfig.json
+C:\Users\mpatr\OneDrive\Desktop\repos\IterationStatementExercise1\IterationStatementsEx1\IterationStatementsEx1\bin\Debug\net6.0\IterationStatementsEx1.dll
+C:\Users\mpatr\OneDrive\Desktop\repos\IterationStatementExercise1\IterationStatementsEx1\IterationStatementsEx1\bin\Debug\net6.0\IterationStatementsEx1.pdb
+C:\Users\mpatr\OneDrive\Desktop\repos\IterationStatementExercise1\IterationStatementsEx1\IterationStatementsEx1\obj\Debug\net6.0\IterationStatementsEx1.csproj.AssemblyReference.cache
+C:\Users\mpatr\OneDrive\Desktop\repos\IterationStatementExercise1\IterationStatementsEx1\IterationStatementsEx1\obj\Debug\net6.0\IterationStatementsEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpatr\OneDrive\Desktop\repos\IterationStatementExercise1\IterationStatementsEx1\IterationStatementsEx1\obj\Debug\net6.0\IterationStatementsEx1.AssemblyInfoInputs.cache
+C:\Users\mpatr\OneDrive\Desktop\repos\IterationStatementExercise1\IterationStatementsEx1\IterationStatementsEx1\obj\Debug\net6.0\IterationStatementsEx1.AssemblyInfo.cs
+C:\Users\mpatr\OneDrive\Desktop\repos\IterationStatementExercise1\IterationStatementsEx1\IterationStatementsEx1\obj\Debug\net6.0\IterationStatementsEx1.csproj.CoreCompileInputs.cache
+C:\Users\mpatr\OneDrive\Desktop\repos\IterationStatementExercise1\IterationStatementsEx1\IterationStatementsEx1\obj\Debug\net6.0\IterationStatementsEx1.dll
+C:\Users\mpatr\OneDrive\Desktop\repos\IterationStatementExercise1\IterationStatementsEx1\IterationStatementsEx1\obj\Debug\net6.0\refint\IterationStatementsEx1.dll
+C:\Users\mpatr\OneDrive\Desktop\repos\IterationStatementExercise1\IterationStatementsEx1\IterationStatementsEx1\obj\Debug\net6.0\IterationStatementsEx1.pdb
+C:\Users\mpatr\OneDrive\Desktop\repos\IterationStatementExercise1\IterationStatementsEx1\IterationStatementsEx1\obj\Debug\net6.0\IterationStatementsEx1.genruntimeconfig.cache
+C:\Users\mpatr\OneDrive\Desktop\repos\IterationStatementExercise1\IterationStatementsEx1\IterationStatementsEx1\obj\Debug\net6.0\ref\IterationStatementsEx1.dll
